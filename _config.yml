@@ -15,8 +15,8 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: chenshuaikang/chenshuaikang.github.io
-github_url: https://github.com/chenshuaikang
+repository: chenshuaikang/chenshuaikang
+github_url: https://github.com/chenshuaikang/chenshuaikang
 url: https://chenshuaikang.github.io/chenshuaikang
 #enforce_ssl: ityouknow.com
 
