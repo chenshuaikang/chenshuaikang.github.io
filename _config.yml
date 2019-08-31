@@ -105,12 +105,9 @@ navs:
         subHref: /spring-boot.html
         subLabel: Spring Boot
 
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
 
   -
-    href: /spring-cloud.html
+    href: /pmp.html
     label: PMP
     target: _self
 
