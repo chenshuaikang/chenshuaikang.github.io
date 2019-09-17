@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: chenshuaikang/chenshuaikang
 github_url: https://github.com/chenshuaikang/chenshuaikang
-url: https://chenshuaikang.github.io
+url: http://imcsk.com
 #enforce_ssl: ityouknow.com
 
 ## Gem
@@ -115,12 +115,11 @@ navs:
     
     href: /java.html
     label: Java
-    target: _blank
-    subnav:
+    target: _self
 
-      -
-        subHref: /java.html
-        subLabel: Jvm 系列文章
+#      -
+#        subHref: /java.html
+#        subLabel: Jvm 系列文章
         
 #      -
 #        subHref: http://www.justdojava.com

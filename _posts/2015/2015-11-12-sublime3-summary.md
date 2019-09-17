@@ -2,6 +2,7 @@
 layout: post
 title: sublime3 使用总结
 category: other
+excerpt: 不得不会的sublime
 tags: [other]
 ---
 
@@ -122,11 +123,7 @@ Package Control 安装成功后我们就可以使用它方便的管理插件了�
 插件名称：IMESupport
 GitHub页面：https://github.com/chikatoike/IMESupport
 
-## mac下的快捷键
 
-1、替换
-
-> Alt+Command+F
 
 
 
