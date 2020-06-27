@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 软件产品研发流程
-category: redis
+category: pmp
 excerpt: 软件产品研发流程
 tags: [pmp]
 ---
